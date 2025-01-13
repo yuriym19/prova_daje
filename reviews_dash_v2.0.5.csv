@@ -1,0 +1,435 @@
+ID,product,time,user,aspect,norm_asp,polarity,norm_pol,sarst,clause,entities,op_hol
+1.1.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,camera,camera,positive,1,AFFECTIVE-REACTION,This camera is perfect for an enthusiastic amateur photographer,amateur,Author
+1.2.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,pictures,pictures,positive,1,STATEMENT,The pictures are razor-sharp,,Author
+1.2.2,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,macro,macro,positive,1,STATEMENT,"The pictures are razor-sharp , even in macro",,Author
+1.3.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,size,size,positive,1,AFFECTIVE-REACTION,It is small enough to fit easily in a coat pocket or purse,,Author
+1.4.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,weight,weight,positive,1,AFFECTIVE-REACTION,It is light enough to carry around all day without bother,day,Author
+1.5.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,feature,feature,positive,1,AFFECTIVE-REACTION,Operating its many features is easy and often obvious,features,Author
+1.6.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,manual,manual,positive,1,AFFECTIVE-REACTION,The manual does a fine job filling in any blanks that remain,manual,Author
+1.7.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,auto-focus,auto focus,neutral,0,STATEMENT,The auto-focus performs well,,Author
+1.7.2,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,scene modes,scene modes,positive,1,SENTIMENT,i love having the 12 optional scene modes,,Author
+1.8.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,rechargeable battery,battery,positive,1,AFFECTIVE-REACTION,"one rechargeable battery the charging unit, included, is fast and small",,Author
+1.9.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,memory card,memory card,neutral,0,STATEMENT,"I bought a 256 mb cf and a second battery , so it 's good to go on a long vacation",,Author
+1.9.2,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,battery,battery,positive,1,STATEMENT,"I bought a 256 mb cf and a second battery , so it 's good to go on a long vacation",,Author
+1.10.1,Nikon Coolpix 4300,2024-05-20T14:17:17.963Z,User-S1clc,camera,camera,positive,1,AFFECTIVE-REACTION,I enthusiastically recommend this camera,camera,Author
+2.1.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,camera,camera,neutral,0,STATEMENT,I got my camera three days back,,Author
+2.1.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,experience,experience,neutral,0,STATEMENT,i had some experience with digital cameras prior to purchasing this one,,Author
+2.1.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,level,level,neutral,0,STATEMENT,i still rate myself as a beginner,,Author
+2.2.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,camera,camera,neutral,0,STATEMENT,I bought this camera because it fit my budget,production,Author
+2.2.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,budget,price,neutral,0,STATEMENT,because it fit my budget,production,Author
+2.2.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,reviews,reviews,positive,1,STATEMENT,the pre-production and production model reviews were positive,production,Author
+2.3.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,camera,camera,positive,1,AFFECTIVE-REACTION,It's easy to use,,Author
+2.3.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,use,usability,positive,1,AFFECTIVE-REACTION,It's easy to use,,Author
+2.3.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,feature,feature,positive,1,AFFECTIVE-REACTION,yet very feature rich,,Author
+2.4.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,auto mode,auto mode,neutral,0,STATEMENT,In the auto mode it functions basically as a point and click,scene,Author
+2.4.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,scene mode,scene mode,positive,1,AFFECTIVE-REACTION,the scene modes are very easy to use and produce good results,scene,Author
+2.5.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,manual mode,manual mode,positive,1,AFFECTIVE-REACTION,The manual mode is feature rich,mode,Author
+2.5.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,experience,experience,positive,1,STATEMENT,i can't wait to get the hang of it,mode,Author
+2.6.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,macro mode,macro mode,negative,-1,AFFECTIVE-REACTION,The macro mode is exceptional,,Author
+2.6.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,picture quality,pictures,neutral,0,STATEMENT,the pictures are very clear,,Author
+2.6.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,lens,lens,positive,1,AFFECTIVE-REACTION,you can take the pictures with the lens unbelievably close the subject,,Author
+2.7.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,battery life,battery,positive,1,AFFECTIVE-REACTION,The battery life is very good,,Author
+2.7.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,usage,usage,neutral,0,STATEMENT,i got about 90 minutes with the lcd turned on all the time,,Author
+2.7.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,usage,usage,positive,1,STATEMENT,and have yet needed to recharge it,,Author
+2.8.1,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,memory card,memory card,negative,-1,STATEMENT,The camera comes with a lexar 16mb starter card,"images, mode",Author
+2.8.2,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,storage capacity,storage capacity,positive,1,AFFECTIVE-REACTION,which stores about 10 images in fine mode at the highest resolution,"images, mode",Author
+2.8.3,Nikon Coolpix 4300,2024-05-04T14:09:50.242Z,User-Eld8i,intention,intention,positive,1,AFFECTIVE-REACTION,i intend to buy a bigger card soon,"images, mode",Author
+3.1.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,other,other,positive,1,SENTIMENT,I love photography .,,Author
+3.2.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,other,other,neutral,0,STATEMENT,I had an older camera that was simply a point and shoot camera .,,Author
+3.3.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,nikon coolpix 4300,camera,positive,1,STATEMENT,I bought a nikon coolpix 4300 .,,Author
+3.4.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,camera,camera,positive,1,SENTIMENT,"I fell in love with this camera, it combines ease of use , with an immense amount of options and power .",camera,Author
+3.4.2,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,use,usability,positive,1,AFFECTIVE-REACTION,"I fell in love with this camera, it combines ease of use , with an immense amount of options and power .",camera,Author
+3.5.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,features,features,positive,1,STATEMENT,"You can use the scene modes , or fine tune the options , you can change the iso level , shutter speed , etc.",tune,Others
+3.6.1,Nikon Coolpix 4300,2024-05-11T00:39:47.230Z,User-K5pSk,camera,camera,positive,1,AFFECTIVE-REACTION,"This camera is ideal for people who want more power , but don't want to spend 1000s dollars on a camera .","power, dollars, people",Author
+4.1.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,nikon coolpix 4300,camera,neutral,0,STATEMENT,I bought coolpix 4300 two months after I had bought canon powershot s400,,Author
+4.2.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,other,other,neutral,0,STATEMENT,Reason for two ?,,Author
+4.3.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,other,other,neutral,0,STATEMENT,It was not easy sharing one with my teen age kid,,Author
+4.4.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,price,price,neutral,0,STATEMENT,The two cameras are very similar in functionality and pricing,,Author
+4.5.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,other,other,positive,1,AFFECTIVE-REACTION,I've had no problem with canon whatsoever,canon,Author
+4.6.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,picture quality,pictures,positive,1,AFFECTIVE-REACTION,"With nikon, although picture qualities are as good as any other 4 mp cameras, I've had the following headaches",,Author
+4.7.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,transfer,transfer,negative,-1,AFFECTIVE-REACTION,Pictures won't transfer to pc directly from the camera using the included transfer cable .,,Author
+4.8.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,card reader,card reader,negative,-1,SENTIMENT,"I did everything i could , and it took many days of frustration before concluding that the only way to transfer to pc is with the card reader .",days,Author
+4.9.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,card reader,card reader,positive,1,STATEMENT,Card reader is included .,,Author
+4.10.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,speed,speed,negative,-1,STATEMENT,"The speed is noticeably slower than canon, especially so with flashes on",,Author
+4.11.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,memory chip,memory card,negative,-1,STATEMENT,"With low battery, it twice wiped out the entire pictures in the memory chip",battery,Author
+4.12.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,memory card,memory card,positive,1,STATEMENT,I used lexar 256 mb and I still use it which means nothing is wrong with lexar,"nothing, lexar",Author
+4.13.1,Nikon Coolpix 4300,2024-05-11T03:44:16.996Z,User-nB8VN,battery,battery,negative,-1,STATEMENT,Be very careful when the battery is low and make sure to carry extra batteries,battery,Author
+5.1.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,camera,camera,positive,1,STATEMENT,all the good things about this camera,,Author
+5.2.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,camera,camera,negative,-1,STATEMENT,there are certain issues might be they are to me here - all of them are minor,,Author
+5.3.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,auto mode,auto mode,negative,-1,STATEMENT,This camera keeps on autofocussing in auto mode with a buzzing sound which can't be stopped,,Author
+5.4.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,autofocussing,auto focus,negative,-1,STATEMENT,Would be really good if they have given an option to stop this autofocussing,,Author
+5.5.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,date; time,date; time,negative,-1,STATEMENT,its only through their software 'nikon view' which reads the images date; time from the images meta-data,date,Others
+5.6.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,date; time,date; time,negative,-1,STATEMENT,So if you use your card reader; copy images - you got to once again open them through their software to put the date; time,software,Others
+5.7.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,date; time,date; time,negative,-1,STATEMENT,there isn't a direct way to add date; time - you got to say 'print images' to a different directory in which there is an option to specify the date; time,,Author
+5.8.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,image quality,pictures,negative,-1,AFFECTIVE-REACTION,Even the slightest of the shakes totally distorts your image,"image, shakes",Author
+5.9.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,indoor image,indoor image,negative,-1,STATEMENT,Images taken indoor weren't so clear,,Author
+5.10.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,flash,flash,negative,-1,STATEMENT,You got to have flash 'on' to get it even though your room is well lit,,Others
+5.11.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,lens cap,lens,negative,-1,AFFECTIVE-REACTION,Lens cap is really annoying,cap,Author
+5.12.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,memory card,memory card,negative,-1,STATEMENT,Go; get a high speed like lexar 12x or higher cf card,,Author
+5.13.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,picture quality,pictures,neutral,0,STATEMENT,"Else with simpler viking cf cards, it takes couple of seconds to write a picture with approximately 'fine' picture quality",,Author
+5.14.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,movie clips,movie clips,negative,-1,AFFECTIVE-REACTION,The movie clips taken will always have some 'noise' in it - you can't avoid that,,Author
+5.15.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,camera,camera,positive,1,AFFECTIVE-REACTION,overall this is a good camera with a 'really good' picture clarity; an exceptional close-up shooting capability,shooting,Author
+5.15.2,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,picture,pictures,positive,1,AFFECTIVE-REACTION,overall this is a good camera with a 'really good' picture clarity,shooting,Author
+5.16.1,Nikon Coolpix 4300,2024-05-24T13:34:39.564Z,User-jedwn,picture quality,pictures,positive,1,STATEMENT,I would rate this is 4.5 stars picture quality; image size defined above are specific to nikon coolpix,,Author
+6.1.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,menu dial knob,menu,negative,-1,STATEMENT,there are problems with my menu dial knob,menu,Author
+6.2.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,menu dial knob,menu,negative,-1,AFFECTIVE-REACTION,It became stucked which makes it almost impossible to switch between modes,modes,Author
+6.3.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,servicing,service,negative,-1,AFFECTIVE-REACTION,"I send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem",weeks,Author
+6.4.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,service,service,negative,-1,STATEMENT,they claim that it's some kind of internal damage and refuse to cover the cost via warranty,"refuse, kind",Others
+6.5.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,service,service,negative,-1,STATEMENT,They wouldn't repair my camera unless if i pay $100 for parts and labor,camera,Others
+6.6.1,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,camera,camera,positive,1,AFFECTIVE-REACTION,It is a good camera in terms of the function and quality,,Author
+6.6.2,Nikon Coolpix 4300,2024-05-04T01:37:58.318Z,User-YoKMU,customer service,service,negative,-1,STATEMENT,nikon absolutely sucks when it comes to customer service,,Author
+7.1.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,system error,system error,negative,-1,AFFECTIVE-REACTION,Got a 'system error' problem 30 days after purchase,"days, system",Author
+7.2.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,camera,camera,negative,-1,AFFECTIVE-REACTION,Made the camera totally inoperable,,Author
+7.3.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,lens cap design,lens,negative,-1,AFFECTIVE-REACTION,the lens cap design is flawed,lens,Author
+7.4.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,lens cap,lens,negative,-1,STATEMENT,You have to manually take the cap off in order to use it,,Author
+7.5.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,audio on video,audio on video,negative,-1,AFFECTIVE-REACTION,Audio on video also lacking,,Author
+7.6.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,pictures quality,pictures,positive,1,AFFECTIVE-REACTION,it takes very good pictures,,Author
+7.6.2,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,shutter delay,shutter delay,neutral,0,STATEMENT,shutter delay isn't so bad either,,Author
+7.7.1,Nikon Coolpix 4300,2024-05-05T05:43:19.864Z,User-kRKof,service,service,neutral,0,STATEMENT,"Still, had to send it back to nikon for repair",nikon,Author
+8.1.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,I am an amateur photographer and here is a piece of advise to all the folks who are thinking about making a move the digital world .,,Author
+8.2.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,camera,camera,positive,1,AFFECTIVE-REACTION,Nikon 4300 is the best camera out there for the features and price .,,Author
+8.3.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,Here were my requirements in a digital camera :,,Author
+8.4.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,"and I wanted some really great 8x10"" photos once in a while",,Author
+8.5.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,negative,-1,STATEMENT,I did not want a very small camera as it seems to get lost in my hands and I wasn't comfortable with that .,"hands, camera",Author
+8.6.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,I wanted a decent sized camera with a contour for my fingers to hold it steadily.,camera,Author
+8.7.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,positive,1,STATEMENT,while giving me an option to use my photography skills by turning on the manual settings .,"amateur, camera, photography",Author
+8.8.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,because I had bought an expensive camcorder before but hadn't used it much,"brand, camcorder",Author
+8.9.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,nikon coolpix 4300,camera,neutral,0,STATEMENT,"Depending on all the above requirements, I had narrowed down my search to Nikon 4300 and Canon Powershot S400 models .",,Author
+8.10.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,settings,settings,neutral,0,STATEMENT,"Nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews",size,Author
+8.10.2,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,size,size,neutral,0,STATEMENT,"Nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews",size,Author
+8.10.3,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,price,price,neutral,0,STATEMENT,"Nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews",size,Author
+8.10.4,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,brand,brand,neutral,0,STATEMENT,"Nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews",size,Author
+8.10.5,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,software,software,neutral,0,STATEMENT,"Nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand name , good software that is included and previous reviews",size,Author
+8.11.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,camera,camera,positive,1,SENTIMENT,I should say I have been very happy with my decision ever since .,decision,Author
+8.12.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,picture,pictures,positive,1,AFFECTIVE-REACTION,The pictures are absolutely amazing - the camera captures the minutest of details .,pictures,Author
+8.13.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,camera,camera,negative,-1,AFFECTIVE-REACTION,Pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance .,,Author
+8.14.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,indoor setting,indoor setting,negative,-1,AFFECTIVE-REACTION,Pictures taken in an indoor setting are a little dull and rarely hazy,setting,Others
+8.15.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,delay,delay,negative,-1,AFFECTIVE-REACTION,and I have seen people becoming a little impatient waiting for the flash to glow.,"waiting, people, flash",Author
+8.16.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,picture quality,pictures,negative,-1,AFFECTIVE-REACTION,The pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture .,"moment, hands",Author
+8.17.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,camera problems,camera problems,negative,-1,STATEMENT,"All the above, I think, are problems with all the digital cameras out there and so I have no major complaints .",,Author
+8.18.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,tripod,tripod,neutral,0,STATEMENT,Try to buy a tripod and that should solve some of those problems .,tripod,Author
+8.19.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,256 mb,memory card,neutral,0,STATEMENT,Whichever camera you buy add about 200 dollars for an additional memory card i bought a 256 mb card,,Author
+8.19.2,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,usb card reader,usb,neutral,0,STATEMENT,"i bought a 256 mb card , usb card reader , camera bag and the warranty",,Author
+8.19.3,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,camera bag,camera bag,negative,-1,STATEMENT,"i bought a 256 mb card , usb card reader , camera bag and the warranty",,Author
+8.19.4,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,warranty,service,negative,-1,STATEMENT,"i bought a 256 mb card , usb card reader , camera bag and the warranty",,Author
+8.20.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,pictures,pictures,positive,1,STATEMENT,get your pictures developed at a kodak picture maker machine even though it costs you a little extra - no one can beat kodak processing in terms of clarity and brightness .,terms,Author
+8.21.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,other,other,neutral,0,STATEMENT,Hope this review has helped you in making up your mind .,Hope,Others
+8.22.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,photographs,photographs,positive,1,SENTIMENT,I have taken about 150 photographs so far and have absolutely loved the experience .,,Author
+8.23.1,Nikon Coolpix 4300,2024-05-18T00:58:33.731Z,User-JzNdt,photographs,photographs,positive,1,AFFECTIVE-REACTION,I am looking forward to my Vegas trip for some great photographs now .,"vegas, photographs",Author
+9.1.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,other,other,negative,-1,STATEMENT,With our compact 35mm broken,,Author
+9.2.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,4300,camera,positive,1,SENTIMENT,am really happy to invest the extra money for the 4300,,Author
+9.3.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,lense,lens,positive,1,AFFECTIVE-REACTION,The lense is a lot better,,Author
+9.3.2,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,pictures,pictures,positive,1,AFFECTIVE-REACTION,the 4mb produce fantastic pictures,,Author
+9.4.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,auto,auto mode,neutral,0,STATEMENT,The possibilities with auto,scene,Author
+9.4.2,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,scene mode,scene mode,neutral,0,STATEMENT,"The possibilities with auto , manual , and the very helpful scene mode",scene,Author
+9.5.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,movie mode,movie mode,positive,1,AFFECTIVE-REACTION,The movie mode is also working great,,Author
+9.6.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,software,software,positive,1,AFFECTIVE-REACTION,the 4300 comes with excellent easy to install software,"software, xp",Author
+9.6.2,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,accessories,accessories,positive,1,STATEMENT,"battery charger, usb and video cable","software, xp",Author
+9.7.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,memory card,memory card,neutral,0,STATEMENT,A 64mb flash card camera comes with a 16mb holds 52 pictures on 'normal' resolution,"card, pictures, resolution",Author
+9.8.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,print ordering,print,positive,1,AFFECTIVE-REACTION,"I experimented with online print ordering with the two major us brick and mortar retailers, and they both delivered great results",results,Author
+9.9.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,print quality,print,positive,1,STATEMENT,"Even at the 'normal' setting, a 8x10 print shows not a single sign of visible rendering or pixels",setting,Author
+9.10.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,battery life,battery,positive,1,AFFECTIVE-REACTION,The battery life is ok,,Author
+9.10.2,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,battery usage,battery,negative,-1,STATEMENT,but can be somewhat short when working a lot with the monitor on,,Author
+9.11.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,battery,battery,neutral,0,STATEMENT,I therefore bought a second battery as a backup,,Author
+9.11.2,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,charging speed,charging speed,positive,1,STATEMENT,due to the lighting fast charging with the included charger,,Author
+9.12.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,accessory kit,accessories,positive,1,AFFECTIVE-REACTION,I highly recommend the accessory kit,kit,Author
+9.13.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,camera bag,camera bag,positive,1,AFFECTIVE-REACTION,"A nice camera bag, which holds camera plus all the cables and the charger",camera,Author
+9.14.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,accessory kit,accessories,positive,1,STATEMENT,"Furher it contains a card reader, a flash card folder for up to 8 cards, a lense cleaning rag, and an ac adapter which is very helpful when working in an 'outlet environment'",card,Author
+9.15.1,Nikon Coolpix 4300,2024-05-29T10:48:52.563Z,User-M6RMI,camera,camera,positive,1,AFFECTIVE-REACTION,"Over all a fantastic very compact camera, which made us experience photography on a totally new level",camera,Author
+10.1.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,review,review,positive,1,STATEMENT,glowing review on this camera,camera,Author
+10.2.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,other,other,positive,1,AFFECTIVE-REACTION,I currently own an olympus d-550 which takes wonderful outdoor pictures,"pictures, olympus",Author
+10.3.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,other,other,negative,-1,STATEMENT,indoor pictures of subjects more than a few feet away can be blurry or grainy,,Author
+10.4.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,coolpix 4300,camera,neutral,0,STATEMENT,"i tried coolpix 4300 along with two other 4mp models minolta dimage s414, and panasonic lumix",,Author
+10.5.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,picture,pictures,negative,-1,STATEMENT,pictures produced by this camera were blurry and in a shade of orange,,Author
+10.6.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,other,other,positive,1,STATEMENT,Pictures produced by the minolta were orange but not blurry,,Author
+10.7.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,other,other,positive,1,AFFECTIVE-REACTION,Pictures produced by the panasonic were excellent,,Author
+10.8.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,blurriness,blurriness,neutral,0,STATEMENT,"he store clerk concluded that the blurriness may be caused by shaking the camera slightly when i press the button , which is understandable since this camera is lighter than the other two models .","camera, button",Author
+10.9.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,other,other,positive,1,STATEMENT,i ended up purchasing the lumix,,Author
+10.10.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,features,features,positive,1,AFFECTIVE-REACTION,this camera has all the wonderful features,"camera, features",Author
+10.11.1,Nikon Coolpix 4300,2024-05-01T12:56:48.033Z,User-VPLvy,camera,camera,negative,-1,AFFECTIVE-REACTION,i doubt it 'll perform well in lower light settings,"hands, person, settings",Author
+11.1.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,nikon 4300,camera,neutral,0,STATEMENT,I purchased the nikon 4300 after several weeks of searching .,,Author
+11.2.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,camera,camera,neutral,0,STATEMENT,"The value, name, and resolution signed the lease.",,Author
+11.3.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,picture,pictures,positive,1,AFFECTIVE-REACTION,this nikon takes incredible pictures .,,Author
+11.4.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,digital zoom,zoom,positive,1,STATEMENT,The digital zoom takes as good of pictures,,Author
+11.4.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,optical zoom,zoom,positive,1,STATEMENT,as the optical zoom does !,,Author
+11.5.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,picture,pictures,negative,-1,AFFECTIVE-REACTION,"The inside pics, can be a bit challenging","camera, bit",Others
+11.5.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,deleting pics,deleting pics,negative,-1,AFFECTIVE-REACTION,when you can instantly delete pics you dont like,"camera, bit",Others
+11.5.3,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,focusing,focusing,negative,-1,AFFECTIVE-REACTION,that are not focused perfectly,"camera, bit",Others
+11.5.4,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,lighting adjustments,lighting adjustments,neutral,0,STATEMENT,or need lighting adjustments,"camera, bit",Others
+11.5.5,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,camera,camera,positive,1,AFFECTIVE-REACTION,make this camera very simple and effective .,"camera, bit",Others
+11.6.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,picture,pictures,positive,1,SENTIMENT,I love all of the features,features,Author
+11.7.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,sunset feature,sunset feature,positive,1,AFFECTIVE-REACTION,"Sunset feature takes incredible pics in the morning, and the evening !",,Author
+11.8.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,software,software,positive,1,AFFECTIVE-REACTION,The software you get with this camera is perfect .,camera,Others
+11.9.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,touchups,touchups,positive,1,AFFECTIVE-REACTION,"Touchups, redeye, and so on are very easy to alter",,Author
+11.9.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,redeye,redeye,positive,1,AFFECTIVE-REACTION,"Touchups, redeye, and so on are very easy to alter",,Author
+11.10.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,memory card,memory card,positive,1,STATEMENT,I definately recommend a large memory card .,memory,Author
+11.11.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,memory card,memory card,neutral,0,STATEMENT,"I use a 128mb card , and usually get around 70 to 100 pics 1024-1280 res.",,Author
+11.11.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,resolution,resolution,positive,1,AFFECTIVE-REACTION,with good resolution .,,Author
+11.12.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,picture,pictures,neutral,0,STATEMENT,Very large pics take 8mb each !,"pics, Very",Author
+11.13.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,battery life,battery,positive,1,AFFECTIVE-REACTION,Battery life is good,,Author
+11.13.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,rechargeable batteries,battery,neutral,0,STATEMENT,although I recommend two rechargebles,,Author
+11.13.3,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,alkaline backup,alkaline backup,neutral,0,STATEMENT,or a alkaline backup,,Author
+11.13.4,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,emergency pics,pictures,neutral,0,STATEMENT,for those emergency pics you have to have .,,Author
+11.14.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,camera,camera,positive,1,AFFECTIVE-REACTION,i am extremely pleased with this camera .,camera,Author
+11.15.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,other,other,neutral,0,STATEMENT,Making the step from film to digital has been a great move .,"digital, move",Author
+11.16.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,other,other,positive,1,STATEMENT,I find myself emailing pics to everyone I know .,,Author
+11.17.1,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,camera,camera,positive,1,AFFECTIVE-REACTION,Great camera,,Author
+11.17.2,Nikon Coolpix 4300,2024-05-04T22:43:58.466Z,User-hmAWc,investment,investment,positive,1,AFFECTIVE-REACTION,great investment !,,Author
+12.1.1,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,other,other,neutral,0,STATEMENT,This is my second digital camera,,Author
+12.2.1,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,use,usability,positive,1,AFFECTIVE-REACTION,easy to use,"coolpix, size",Author
+12.2.2,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,quality,quality,positive,1,AFFECTIVE-REACTION,high quality,"coolpix, size",Author
+12.2.3,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,size,size,positive,1,AFFECTIVE-REACTION,and compact in size,"coolpix, size",Author
+12.3.1,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,battery,battery,positive,1,STATEMENT,With an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation .,,Author
+12.3.2,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,memory card,memory card,positive,1,STATEMENT,With an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation .,,Author
+12.4.1,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,auto settings,auto settings,positive,1,STATEMENT,The auto setting does a great job most of the time,"auto, settings, job",Author
+12.5.1,Nikon Coolpix 4300,2024-05-10T02:51:13.208Z,User-flemk,nikon coolpix 4300,camera,positive,1,STATEMENT,"If something were to happen to my nikon coolpix 4300, i would order another just like it",,Author
+13.1.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,nikon coolpix 4300,camera,neutral,0,STATEMENT,After much research I decided on the nikon coolpix 4300.,,Author
+13.2.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,camera,camera,positive,1,AFFECTIVE-REACTION,It has many great features and very few bad ones.,"ones, features",Author
+13.3.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,picture quality,pictures,positive,1,AFFECTIVE-REACTION,It takes excellent pics,pics,Author
+13.3.2,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,use,usability,positive,1,AFFECTIVE-REACTION,is very easy to use,pics,Author
+13.4.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,pics,pictures,negative,-1,AFFECTIVE-REACTION,If you can't get great pics from this camera,pics,Others
+13.5.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,lcd,lcd,negative,-1,AFFECTIVE-REACTION,the lcd is hard to read in daylight,"lcd, daylight",Author
+13.6.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,download speed,download speed,positive,1,AFFECTIVE-REACTION,Downloads are a snap and quick.,,Author
+13.7.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,control,control,positive,1,AFFECTIVE-REACTION,Controls easy to use and easy to get to.,,Author
+13.8.1,Nikon Coolpix 4300,2024-05-13T18:58:50.456Z,User-yZQ1J,camera,camera,positive,1,AFFECTIVE-REACTION,I'm extremely glad I bought this camera.,,Author
+14.1.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,camera,camera,positive,1,SENTIMENT,Really happy with this little camera .,camera,Author
+14.2.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,size,size,positive,1,AFFECTIVE-REACTION,It isn't big and offensive,,Author
+14.2.2,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,image quality,pictures,positive,1,STATEMENT,you would n't know it by looking at the pics it takes,,Author
+14.3.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,settings,settings,negative,-1,STATEMENT,still learning a few of the settings,,Author
+14.4.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,picture,pictures,positive,1,STATEMENT,beautiful pics and beautiful prints,"prints, pics",Author
+14.4.2,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,image quality,pictures,positive,1,AFFECTIVE-REACTION,beautiful pics and beautiful prints,"prints, pics",Author
+14.5.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,zoomed image,zoom,positive,1,AFFECTIVE-REACTION,the zoomed images are quite impressive,"quality, images",Author
+14.6.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,memory card,memory card,positive,1,STATEMENT,it holds a lot of pics at any resolution,,Author
+14.7.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,image quality,pictures,negative,-1,STATEMENT,I only wish you could get high quality tiff images at all resolutions,,Author
+14.8.1,Nikon Coolpix 4300,2024-05-31T21:46:44.595Z,User-n8ova,camera,camera,positive,1,AFFECTIVE-REACTION,a great camera for the money,"m, perspective, camera, camper",Author
+15.1.1,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,camera,camera,positive,1,AFFECTIVE-REACTION,This is a wonderful camera .,camera,Author
+15.2.1,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,other,other,neutral,0,STATEMENT,My wife and I read and read and read reviews on different cameras for months .,,"Author, Others"
+15.3.1,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,camera,camera,positive,1,STATEMENT,since have never had buyer's remorse .,buyer,Author
+15.4.1,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,4 mp,4 mp,neutral,0,STATEMENT,4 mp gives you room for the future gaining experience,"offsets, camera",Others
+15.4.2,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,cost,price,negative,-1,AFFECTIVE-REACTION,cost offsets over time from wanting more in a camera,"offsets, camera",Others
+15.4.3,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,optical zoom,zoom,negative,-1,AFFECTIVE-REACTION,3x optical and the fact that it carries nikon's quality reputation behind it,"offsets, camera",Others
+15.4.4,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,quality reputation,quality reputation,negative,-1,AFFECTIVE-REACTION,the fact that it carries nikon's quality reputation behind it,"offsets, camera",Others
+15.4.5,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,package value,package value,positive,1,STATEMENT,make the whole package prove itself worthwhile at the price .,"offsets, camera",Others
+15.5.1,Nikon Coolpix 4300,2024-05-16T22:25:47.674Z,User-vltkc,picture,pictures,positive,1,STATEMENT,no problem for the camera - rooms looked like they had ample lighting .,"lighting, thing, rooms, camera",Author
+16.1.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,positive,1,SENTIMENT,This little camera has created a marriage between myself and nikon,nikon,Author
+16.2.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,software,software,positive,1,AFFECTIVE-REACTION,The software that comes with it is amazing,service,Author
+16.2.2,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,online service,online service,positive,1,AFFECTIVE-REACTION,the online service that comes free is really very neat,service,Author
+16.2.3,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,photo quality,pictures,positive,1,AFFECTIVE-REACTION,clean clear and well focused on over 95 % of all photos taken by a beginner,service,Author
+16.3.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,positive,1,AFFECTIVE-REACTION,100 % perfect if you put some thought and time into reading the manual before you take the photos,,Others
+16.4.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,neutral,0,STATEMENT,I took the camera and just gave it to someone,,Author
+16.5.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,neutral,0,STATEMENT,No instructions,,Author
+16.6.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,photo quality,pictures,positive,1,AFFECTIVE-REACTION,Just point and shoot and the photos were great,photos,Author
+16.7.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,positive,1,STATEMENT,Just imagine if you place a bit of knowledge when you take your photos,,Author
+16.8.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,memory card,memory card,positive,1,AFFECTIVE-REACTION,The memory card fit nicely since i also have a pocket pc and it automatically installed a picture software on my pda wolla,memory,Author
+16.9.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,other,other,positive,1,STATEMENT,My pda became a digital album,,Author
+16.10.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,memory card,memory card,positive,1,STATEMENT,I have a 128mb card in it and can shoot over 150 hi res photos,,Author
+16.11.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,positive,1,AFFECTIVE-REACTION,"If you have to buy a camera on a budget, this has got to be the one",,Author
+16.12.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,positive,1,STATEMENT,Go get it,,Author
+16.13.1,Nikon Coolpix 4300,2024-05-23T17:07:57.121Z,User-WlU6U,camera,camera,neutral,0,STATEMENT,Before they are sold out !,,Author
+17.1.1,Nikon Coolpix 4300,2024-05-03T21:39:34.458Z,User-RGz1U,camera,camera,positive,1,AFFECTIVE-REACTION,Great camera,"usage, camera",Author
+17.1.2,Nikon Coolpix 4300,2024-05-03T21:39:34.458Z,User-RGz1U,results,results,positive,1,AFFECTIVE-REACTION,got excellent results,"usage, camera",Author
+17.1.3,Nikon Coolpix 4300,2024-05-03T21:39:34.458Z,User-RGz1U,usage,usage,positive,1,STATEMENT,simple friendly usage,"usage, camera",Author
+18.1.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,camera,camera,neutral,0,STATEMENT,I bought my nikon coolpix4300 about a week ago .,,Author
+18.2.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,features,features,positive,1,AFFECTIVE-REACTION,i can say that i am quite impressed with the features that it has .,,Author
+18.3.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,usability,usability,positive,1,AFFECTIVE-REACTION,It is easy enough to use for a beginner like me,enough,Others
+18.3.2,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,features,features,positive,1,STATEMENT,it has plenty of features for me to grow into,enough,Others
+18.4.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,macro shots,macro shots,positive,1,STATEMENT,I particularly like the way it aids me in taking my macro shots .,,Author
+18.5.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,picture quality,pictures,positive,1,AFFECTIVE-REACTION,My friends were impressed with the quality of the pictures i took !,"friends, quality",Author
+18.6.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,autofocus,auto focus,negative,-1,STATEMENT,One downside though is that autofocus does not work well when battery is low .,battery,Author
+18.7.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,autofocus,auto focus,neutral,0,STATEMENT,I assume this is the case for most cameras since it does not have enough power to do autofocus .,,Author
+18.8.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,battery life,battery,neutral,0,STATEMENT,Battery life is ok .,Battery,Author
+18.9.1,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,battery,battery,neutral,0,STATEMENT,I plan on buying a second battery,,Author
+18.9.2,Nikon Coolpix 4300,2024-05-26T15:31:11.967Z,User-1SX1T,storage,storage,positive,1,AFFECTIVE-REACTION,a larger cf for it,,Author
+19.1.1,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,camera,camera,positive,1,AFFECTIVE-REACTION,"Great camera, and for the price you can't beat it.",camera,Others
+19.2.1,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,usage,usage,neutral,0,STATEMENT,I've been using it for about 3 months now.,,Author
+19.3.1,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,menus,menu,positive,1,AFFECTIVE-REACTION,learned how to maneuver through the menus quickly.,controls,Author
+19.4.1,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,quality,quality,positive,1,AFFECTIVE-REACTION,The quality is superb.,,Author
+19.5.1,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,size,size,positive,1,AFFECTIVE-REACTION,The small size is perfect for my little hands,"hands, person",Author
+19.5.2,Nikon Coolpix 4300,2024-05-12T00:06:58.024Z,User-waBWE,comfort,comfort,negative,-1,AFFECTIVE-REACTION,but may perhaps be uncomfortable or awkward for a bigger person.,"hands, person",Author
+20.1.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,"model 880, 885","model 880, 885",positive,1,AFFECTIVE-REACTION,i find them to produce excellent quality photos,,Author
+20.2.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,nikon,camera,positive,1,SENTIMENT,i find nikon to be a brand that i can trust,"brand, package",Author
+20.3.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,flash card,flash card,neutral,0,STATEMENT,It comes with a 16mb flash card that you will need to upgrade,card,Author
+20.4.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,256mb card,memory card,positive,1,STATEMENT,have been hard-pressed to fill it over a weekend,,Author
+20.6.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,rechargeable battery,battery,negative,-1,STATEMENT,that does not seem to last all that long,,Author
+20.7.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,extra battery,battery,positive,1,STATEMENT,a good idea to purchase an extra battery,,Author
+20.8.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,auto-focus assist light,auto focus,negative,-1,AFFECTIVE-REACTION,It does not have an auto-focus assist light,"shots, camera, situations, assist",Author
+20.9.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,auto-focus assist light,auto focus,neutral,0,STATEMENT,"not a major issue, but it can be slightly annoying",things,Author
+20.10.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,3x optical zoom,zoom,neutral,0,STATEMENT,It has a 3x optical zoom,,Author
+20.11.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,optical zoom,zoom,negative,-1,STATEMENT,you sacrifice weight and size,,Author
+20.12.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,digital zoom,zoom,negative,-1,STATEMENT,but you sacrifice quality,,Author
+20.15.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,manual mode,manual mode,neutral,0,STATEMENT,this is not really a hindrance,shudder,Others
+20.16.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,drawbacks,drawbacks,positive,1,AFFECTIVE-REACTION,these are the only drawbacks this camera has,,Author
+20.18.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,camera,camera,positive,1,AFFECTIVE-REACTION,It really is an awesome camera that is hard to beat,camera,Author
+20.19.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,durability,durability,positive,1,STATEMENT,they hold up really well,,Author
+20.20.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,macro shots,macro shots,positive,1,AFFECTIVE-REACTION,They take excellent macro shots,,Author
+20.21.1,Nikon Coolpix 4300,2024-05-20T19:47:18.538Z,User-Ds2S4,menus and features,menu,positive,1,AFFECTIVE-REACTION,are easy to manipulate and access,"menus, features",Author
+21.1.1,Nikon Coolpix 4300,2024-05-10T10:22:37.548Z,User-mKQ4h,camera,camera,positive,1,STATEMENT,it's value for money,,Author
+21.2.1,Nikon Coolpix 4300,2024-05-10T10:22:37.548Z,User-mKQ4h,pictures,pictures,positive,1,AFFECTIVE-REACTION,The pictures are amazing,picturers,Author
+21.3.1,Nikon Coolpix 4300,2024-05-10T10:22:37.548Z,User-mKQ4h,camera,camera,positive,1,STATEMENT,just buy this one,time,Author
+21.4.1,Nikon Coolpix 4300,2024-05-10T10:22:37.548Z,User-mKQ4h,nikon 4300,camera,positive,1,AFFECTIVE-REACTION,Don't get any better then the nikon 4300,,Author
+22.1.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,brand,brand,positive,1,STATEMENT,I am a nikon fan,,Author
+22.2.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,camera,camera,neutral,0,STATEMENT,Recently bought this coolpix 4300 along with a 256mb ultra flash card,"card, pixel, ultra, combos",Author
+22.2.2,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,picture quality,pictures,positive,1,AFFECTIVE-REACTION,qualities of the picture are excellent,"card, pixel, ultra, combos",Author
+22.2.3,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,user-friendly functions,user-friendly functions,positive,1,AFFECTIVE-REACTION,many of the user-friendly functions are very similar to slr models,"card, pixel, ultra, combos",Author
+22.3.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,txt file,txt file,positive,1,STATEMENT,I particularly like the 'txt' file which records all the control information for all the pictures you take,,Author
+22.4.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,compact digital camera,compact digital camera,positive,1,STATEMENT,The compact digital camera is especially useful if you have little children around,"camera, children",Others
+22.5.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,flash card,flash card,positive,1,STATEMENT,"Try to buy a high capacity ultra card, as it 's 2x as faster as the regular cf card","card, capacity",Author
+22.6.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,time saving,time saving,positive,1,STATEMENT,Consider the time you save during picture taking especially not missing a good moment,"moment, picture, money",Others
+22.7.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,battery,battery,positive,1,AFFECTIVE-REACTION,An extra rechargeable en-el 1 battery is also handy,battery,Others
+22.8.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,rechargeable,battery,positive,1,STATEMENT,Use the rechargeable because that saves you money and helps the environment in a long run,"environment, money",Others
+22.9.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,storage capacity,storage capacity,negative,-1,AFFECTIVE-REACTION,"for 'fine and 2200 +' quality pictures, one ultra 256mb cf card can only hold 130-140 pics","thing, quality",Author
+22.10.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,expectation,expectation,negative,-1,STATEMENT,I would expect the card to hold over 200 pictures for size of 1.2 mb/per,,Author
+22.11.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,clarification,clarification,neutral,0,STATEMENT,Anybody can explain that?,,Author
+22.12.1,Nikon Coolpix 4300,2024-05-06T09:49:04.266Z,User-mCwIf,nikon,camera,positive,1,SENTIMENT,"A nikon will make you happier and leave you lots of good memories, as always",,Author
+23.1.1,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,camera,camera,positive,1,AFFECTIVE-REACTION,I highly recommend this camera,"pictures, camera",Author
+23.1.2,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,digital camera,digital camera,positive,1,STATEMENT,a good digital camera that takes great pictures,"pictures, camera",Author
+23.1.3,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,operating ease,operating ease,positive,1,STATEMENT,doesn't take weeks to figure out how to operate,"pictures, camera",Author
+23.2.1,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,quality,quality,positive,1,SENTIMENT,are constantly amazed at the quality of the pictures,pictures,Author
+23.2.2,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,versatility,versatility,positive,1,AFFECTIVE-REACTION,the number of different ways the camera allows for pictures to be taken,pictures,Author
+23.3.1,Nikon Coolpix 4300,2024-05-01T13:16:11.174Z,User-SSkx3,camera,camera,positive,1,STATEMENT,this camera will not let you down,,Author
+24.1.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,budget,price,neutral,0,STATEMENT,let's start with my needs: 1 $500 budget,size,Author
+24.1.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,resolution,resolution,neutral,0,STATEMENT,2 4mp resolution,size,Author
+24.1.3,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,optical clarity and color,optics,neutral,0,STATEMENT,3 optical clarity and color,size,Author
+24.1.4,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,shutter lag,shutter lag,negative,-1,AFFECTIVE-REACTION,4 fast - very little shutter lag,size,Author
+24.1.5,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,compact size,compact size,positive,1,STATEMENT,5 compact size,size,Author
+24.1.6,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,camera grip,camera grip,positive,1,AFFECTIVE-REACTION,6 good camera grip to minimize camera shake,size,Author
+24.2.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,research,research,neutral,0,STATEMENT,"For three months, I've researched the internet and magazines",test,Author
+24.3.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,nikon coolpix 4300,camera,positive,1,AFFECTIVE-REACTION,And I finally settled on the nikon coolpix 4300,,Author
+24.4.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,camera,camera,positive,1,STATEMENT,this camera has exceeded my expectations,"camera, expectations",Author
+24.5.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,daylight pictures,daylight pictures,positive,1,AFFECTIVE-REACTION,The daylight pictures are brilliant,"shots, daylight",Author
+24.5.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,indoor shots,indoor shots,positive,1,AFFECTIVE-REACTION,the indoor shots are very good,"shots, daylight",Author
+24.6.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,shutter lag,shutter lag,negative,-1,AFFECTIVE-REACTION,The shutter lag is on par with what I've experienced,"card, frame, speed",Author
+24.6.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,next frame advance,next frame advance,positive,1,STATEMENT,the next frame advance is about a couple seconds,"card, frame, speed",Author
+24.7.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,uploading images,uploading images,positive,1,AFFECTIVE-REACTION,Uploading the images to my windows-based pc is very fast and simple,,Author
+24.8.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,indoor shots,indoor shots,negative,-1,STATEMENT,indoor shots from a distance > 8ft lack contrast and color,cameras,Author
+24.9.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,slave flash unit,slave flash unit,neutral,0,STATEMENT,i'm researching for an inexpensive slave flash unit,flash unit,Author
+24.10.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,battery life,battery,negative,-1,STATEMENT,The battery life seems to be on the short side but adequate for most situations,"side, situations",Author
+24.11.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,outdoor shots,outdoor shots,neutral,0,STATEMENT,I got 45 outdoor and 15 indoor shots with the monitor on,,Author
+24.11.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,battery,battery,negative,-1,STATEMENT,before the battery died,,Author
+24.12.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,back-up battery,back-up battery,positive,1,STATEMENT,An extra for a back-up battery would be a good investment,,Author
+24.13.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,picture editing software,picture editing software,neutral,0,STATEMENT,"The picture editing software it came with is adequate, but not very robust",,Author
+24.14.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,photosuite,photosuite,positive,1,STATEMENT,I'll still use my photosuite for editing,,Author
+24.15.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,indoor shots,indoor shots,negative,-1,AFFECTIVE-REACTION,many of the reviews knocked this camera for low light focusing,"reviews, camera",Author
+24.16.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,focusing,focusing,positive,1,AFFECTIVE-REACTION,the focusing was just fine,"kitchen, focusing",Author
+24.17.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,camera,camera,positive,1,SENTIMENT,i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera,"quality, camera, anyone",Author
+24.18.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,camera,camera,positive,1,SENTIMENT,i still love this camera,camera,Author
+24.19.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,accessories,accessories,positive,1,STATEMENT,I've picked up a few accessories that I found to be useful,,Author
+24.20.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,digi-slave dsf-1s flash unit,digi-slave dsf-1s flash unit,positive,1,STATEMENT,I bought a digi-slave dsf-1s flash unit,unit,Author
+24.21.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,bracket,bracket,neutral,0,STATEMENT,I don't use a bracket,"head, hand",Author
+24.22.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,adapter,adapter,neutral,0,STATEMENT,I also got a ur-e 4 step down ring adapter,,Author
+24.22.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,lens cap,lens,neutral,0,STATEMENT,lc-e 900 lens cap,,Author
+24.22.3,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,filter set,filter set,positive,1,STATEMENT,the nikon 28mm filter set,,Author
+24.23.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,protection,protection,neutral,0,STATEMENT,This provides added protection for the camera lens,"camera, use",Author
+24.23.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,filters,filters,positive,1,STATEMENT,allows the use of filters,"camera, use",Author
+24.24.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,adapter,adapter,neutral,0,STATEMENT,I leave the adapter and uv filter on all the time,,Author
+24.25.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,camera,camera,positive,1,STATEMENT,allows you to turn on the camera on without having to remove the lens cap,,Others
+24.26.1,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,photography,pictures,neutral,0,STATEMENT,the downside is that you might accidentally take pictures with the lens cap on,filters,Others
+24.26.2,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,case fit,case fit,neutral,0,STATEMENT,the camera won't fit in the small cases,filters,Others
+24.26.3,Nikon Coolpix 4300,2024-05-25T13:30:16.387Z,User-4A5g0,filters,filters,negative,-1,AFFECTIVE-REACTION,28mm filters are expensive and hard to find,filters,Others
+25.1.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,camera,camera,positive,1,AFFECTIVE-REACTION,Great camera .,,Author
+25.2.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,camera,camera,positive,1,AFFECTIVE-REACTION,how easy this camera is to use,camera,Author
+25.3.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,pictures,pictures,positive,1,AFFECTIVE-REACTION,It takes great pictures .,pictures,Author
+25.4.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,manual,manual,positive,1,AFFECTIVE-REACTION,The manual is easy to understand,,Author
+25.4.2,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,usability,usability,positive,1,AFFECTIVE-REACTION,it is mostly idiot proof,,Author
+25.5.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,size,size,positive,1,STATEMENT,"It is small , unlike my canon slr",,Author
+25.6.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,quick pictures,quick pictures,negative,-1,STATEMENT,how to make it snap quick pictures for action shots,,Author
+25.7.1,Nikon Coolpix 4300,2024-05-25T22:59:23.569Z,User-wauly,manual,manual,negative,-1,STATEMENT,Now where did i put that manual ?,,Author
+26.1.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,rating,rating,neutral,0,STATEMENT,Don't let my five star rating fool you .,rating,Others
+26.2.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,camera,camera,positive,1,STATEMENT,The nikon coolpix 4300 deserves six .,,Author
+26.3.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,camera,camera,positive,1,STATEMENT,I got this camera about a month ago and i can't put it down .,,Author
+26.4.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,camera,camera,positive,1,STATEMENT,realized this one went above and beyond .,,Author
+26.5.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,camera,camera,positive,1,AFFECTIVE-REACTION,have gotten high quality pictures every time .,,Author
+26.6.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,autofocus,auto focus,neutral,0,STATEMENT,Autofocus feels exactly like my film camera,"fun, mode",Author
+26.6.2,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,scene mode,scene mode,positive,1,STATEMENT,scene and manual mode add a little fun challenge to it all .,"fun, mode",Author
+26.7.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,accessory,accessories,positive,1,STATEMENT,I would also recommend buying an extra battery and at least a 128 mb compact flash type i memory card .,"mb, battery",Author
+26.8.1,Nikon Coolpix 4300,2024-05-27T01:49:41.559Z,User-jtdGi,camera,camera,positive,1,STATEMENT,Buy this camera and savour it .,,Author
+27.1.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,camera,camera,neutral,0,STATEMENT,I reviewed several digital cameras before settling on this one.,,Author
+27.2.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,camera,camera,positive,1,STATEMENT,This one was rated very high by several people,,Author
+27.3.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,purchase,price,positive,1,AFFECTIVE-REACTION,I have not been disappointed with my purchase.,purchase,Author
+27.4.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,picture quality,pictures,positive,1,STATEMENT,Picture quality in outdoor settings is indistinguishable from 35mm.,,Author
+27.5.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,indoor shots,indoor shots,negative,-1,AFFECTIVE-REACTION,indoor shots with a flash are not quite as good as 35mm.,shots,Author
+27.6.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,convenience,convenience,positive,1,STATEMENT,the convenience of using digital far outweighs the slightly less accurate indoor pictures.,pictures,Author
+27.7.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,camera,camera,positive,1,AFFECTIVE-REACTION,I am extremely satisfied with this camera.,,Author
+27.8.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,purchase,price,neutral,0,STATEMENT,I purchased it from amazon on a since discontinued promotion.,,Author
+27.9.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,battery life,battery,positive,1,STATEMENT,life is good but still somewhat short.,,Author
+27.10.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,storage,storage,negative,-1,STATEMENT,Don't buy this camera if you are not going to purchase a 128 megabyte card.,,Author
+27.11.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,storage,storage,neutral,0,STATEMENT,You need the storage to hold a decent amount of shots at 4 megapixel resolution.,"storage, amount",Author
+27.12.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,controls,controls,negative,-1,STATEMENT,who complain that this camera's controls are confusing and hard to remember:,"controls, camera, numbskulls",Author
+27.14.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,regular mode,regular mode,positive,1,STATEMENT,The regular mode in this camera works for 80 % of settings.,,Author
+27.15.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,scene mode,scene mode,positive,1,STATEMENT,The 'scene' mode works well for the remainder of shots that are not going to be in a 'regular' setting.,,Author
+27.16.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,optical zoom,zoom,negative,-1,AFFECTIVE-REACTION,I wish the camera had a higher optical zoom so that I could take better wildlife photos.,camera,Author
+27.17.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,optical setting,optics,positive,1,STATEMENT,its 3x optical setting is acceptable for 70 % of the shots that I take.,"setting, %",Author
+27.18.1,Nikon Coolpix 4300,2024-05-02T23:31:58.584Z,User-ibGHX,camera,camera,positive,1,STATEMENT,"Buy this camera, you won't regret it.",,Others
+28.1.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,camera,camera,positive,1,AFFECTIVE-REACTION,"If you're looking for a small, compact, super resolution digital camera",,Others
+28.2.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,picture quality,pictures,positive,1,AFFECTIVE-REACTION,because of the superior picture quality 4 mega pixel,"picture, gem",Author
+28.3.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,nikon,camera,positive,1,AFFECTIVE-REACTION,this nikon definitely delivers a huge bang for the buck,,Author
+28.4.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,accessory,accessories,positive,1,AFFECTIVE-REACTION,the sheer fun of being able to use an array of nikon accessories,"array, fun",Author
+28.5.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,picture quality,pictures,positive,1,AFFECTIVE-REACTION,the picture quality and features which are too numerous to mention are unmatched,,Author
+28.6.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,design,design,positive,1,AFFECTIVE-REACTION,The design and construction are excellent,quality,Author
+28.6.2,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,construction,construction,positive,1,AFFECTIVE-REACTION,The design and construction are excellent,quality,Author
+28.6.3,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,nikon optics,optics,negative,-1,AFFECTIVE-REACTION,is the legendary quality of the nikon optics,quality,Author
+28.7.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,other,other,neutral,0,STATEMENT,I own a 35mm slr camera and this is my second digital,,Author
+28.8.1,Nikon Coolpix 4300,2024-05-17T08:50:02.029Z,User-77XBY,camera,camera,positive,1,STATEMENT,that is free of buyer's remorse and filled with cool,"state, buyer, euphoria",Others
+29.1.1,Nikon Coolpix 4300,2024-05-05T08:38:59.205Z,User-E4LBc,camera,camera,neutral,0,STATEMENT,Had it for a week .,,Author
+29.2.1,Nikon Coolpix 4300,2024-05-05T08:38:59.205Z,User-E4LBc,camera,camera,positive,1,AFFECTIVE-REACTION,"There are so many functions in this little, yet powerful camera !","camera, functions",Author
+30.1.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,camera,camera,positive,1,SENTIMENT,Seriously ! i love it !,,Author
+30.2.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,picture,pictures,positive,1,STATEMENT,"when i tried taking pics of it with my old camera , they came out black , but with this , they look the same in the picture as in real life","room, pics",Author
+30.3.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,picture,pictures,positive,1,STATEMENT,"cause my carpet looks clean , lol",carpet,Author
+30.4.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,camera,camera,positive,1,AFFECTIVE-REACTION,this camera is great !,camera,Author
+30.5.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,picture quality,pictures,positive,1,AFFECTIVE-REACTION,The picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to,picture,Others
+30.5.2,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,movie,movie,positive,1,AFFECTIVE-REACTION,The picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to,picture,Others
+30.6.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,connection,connection,neutral,0,STATEMENT,"I can't connect it to my computer though , but that 's a problem with windows me , not the camera",windows,Author
+30.7.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,other,other,neutral,0,STATEMENT,"If you have windows me you should upgrade to xp anyway , lol",windows,Others
+30.8.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,connection,connection,positive,1,AFFECTIVE-REACTION,But it works perfectly fine on my parent's computer,parent,Author
+30.9.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,lense cap,lens,positive,1,AFFECTIVE-REACTION,"It does have a lense cap , but it wo n't let you take pics with it on which is real good",,Author
+30.10.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,battery,battery,positive,1,AFFECTIVE-REACTION,The battery recharges real fast and the recharger thingy that comes with is real nice,,Author
+30.11.1,Nikon Coolpix 4300,2024-05-10T23:09:18.648Z,User-FRD55,camera,camera,positive,1,AFFECTIVE-REACTION,this little camera has so many features i have n't even gotten to all of them yet,"fine, camera",Author
+31.1.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,camera,camera,positive,1,STATEMENT,this one had everything i was looking for,,Author
+31.2.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,ease of use,usability,positive,1,AFFECTIVE-REACTION,It's easy for beginners to use,"photographers, beginners",Author
+31.2.2,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,features,features,positive,1,SENTIMENT,has features that more serious photographers will love,"photographers, beginners",Author
+31.3.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,weight,weight,positive,1,AFFECTIVE-REACTION,It's light weight enough to take with you everywhere,"enough, pix, weight",Author
+31.3.2,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,picture,pictures,positive,1,AFFECTIVE-REACTION,powerful enough to get outstanding pix,"enough, pix, weight",Author
+31.4.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,continuous shot mode,continuous shot mode,positive,1,SENTIMENT,I love the continuous shot mode,"shot, succession, action",Author
+31.5.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,photo quality,pictures,positive,1,SENTIMENT,I'm amazed at the photo quality,quality,Author
+31.6.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,8mb card,memory card,negative,-1,AFFECTIVE-REACTION,"I only have one complaint, and that is the 8mb card included",,Author
+31.7.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,8mb,memory card,negative,-1,STATEMENT,8mb for a camera like this is a joke,,Author
+31.8.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,memory card,memory card,positive,1,AFFECTIVE-REACTION,A card with more memory is a must,,Author
+31.9.1,Nikon Coolpix 4300,2024-05-29T02:34:12.529Z,User-C0u57,memory card,memory card,neutral,0,STATEMENT,"A minor quibble, since most cameras on the market still only include the 8mb cards",,Author
+32.1.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,camera,camera,positive,1,STATEMENT,this camera is just about the best value out there,,Author
+32.2.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,camera,camera,positive,1,STATEMENT,These are the reasons i think it 's great,,Author
+32.3.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,feature,feature,positive,1,AFFECTIVE-REACTION,It has all the features an amateur photo-enthusiast would want,amatuer,Author
+32.4.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,use,usability,positive,1,AFFECTIVE-REACTION,It is easy enough for my grandmother to use,,Author
+32.5.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,size,size,positive,1,AFFECTIVE-REACTION,It is very compact but the controls are so well designed that they're still easy to use,controls,Author
+32.6.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,optical zoom,zoom,positive,1,STATEMENT,It has optional lenses like wide angles and extra zooms,"lenses, angles",Author
+32.7.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,memory card,memory card,positive,1,STATEMENT,"it uses compact flash cards, which are easy to find, cheap, reliable and supported by many other devices you may have at home",devices,Author
+32.8.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,support,support,positive,1,AFFECTIVE-REACTION,The nikon coolpix line is a well-established line so you know support and parts are going to be available,"coolpix, line, parts",Others
+32.9.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,picture quality,pictures,positive,1,AFFECTIVE-REACTION,Picture quality is excellent,,Author
+32.10.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,battery life,battery,positive,1,AFFECTIVE-REACTION,Battery life is excellent,,Author
+32.11.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,zoom,zoom,positive,1,AFFECTIVE-REACTION,3x built-in optical zoom is a lot for this price range,,Author
+32.12.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,price,price,positive,1,AFFECTIVE-REACTION,Great price for all the features,price,Author
+32.13.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,camera,camera,negative,-1,STATEMENT,Here's what you may miss or be annoyed by with this camera,camera,Others
+32.14.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,firewire,firewire,negative,-1,AFFECTIVE-REACTION,No direct firewire to the camera,,Author
+32.15.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,usb,usb,positive,1,STATEMENT,"There is usb, though",,Author
+32.16.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,viewfinder,viewfinder,negative,-1,STATEMENT,The camera is so small that when you attach some lenses the optical viewfinder is partially obscured,viewfinder,Others
+32.18.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,viewfinder,viewfinder,positive,1,STATEMENT,You just have to use the lcd viewfinder to see the whole picture .,,Author
+32.19.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,viewfinder,viewfinder,neutral,0,STATEMENT,It's no problem for me personally,,Author
+32.20.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,battery,battery,negative,-1,STATEMENT,Battery has to be removed to recharge .,,Author
+32.21.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,adapter,adapter,negative,-1,STATEMENT,An ac adapter for powering the camera while the battery's out is not included,,Author
+32.22.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,adapter,adapter,negative,-1,STATEMENT,Two different adapters -- ur-e 4 and ur-e 7 -- are required for some attachment lenses,,Author
+32.23.1,Nikon Coolpix 4300,2024-05-22T01:06:52.833Z,User-5K0Fl,camera,camera,neutral,0,STATEMENT,"Most of these 'annoyances', though, are comparable to what you'll find on other cameras in this price range",,Others
+33.1.1,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,other,other,neutral,0,STATEMENT,"I am new to the whole digital camera thing; well, new to the whole camera thing period, really.",,Author
+33.2.1,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,image,pictures,positive,1,AFFECTIVE-REACTION,"This camera was affordable, very easy to learn, and produces spectacular images.","camera, images",Author
+33.3.1,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,auto mode,auto mode,positive,1,AFFECTIVE-REACTION,The auto-mode is good enough for most shots,"scene, mode",Author
+33.3.2,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,scene mode,scene mode,positive,1,STATEMENT,the 4300 also boasts 12 versatile scene modes,"scene, mode",Author
+33.3.3,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,manual mode,manual mode,positive,1,STATEMENT,though I admit I haven't played with it too much on manual.,"scene, mode",Author
+33.4.1,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,size,size,positive,1,AFFECTIVE-REACTION,It's size also makes it ideal for travel.,"size, travel",Author
+33.5.1,Nikon Coolpix 4300,2024-05-07T15:36:06.425Z,User-0SLZn,camera,camera,positive,1,AFFECTIVE-REACTION,"Overall the nikon 4300 is a very dependable, robust, and useful little camera.",camera,Author
+34.1.1,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,camera,camera,positive,1,AFFECTIVE-REACTION,Awesome camera with huge print quality in a tiny package,package,Author
+34.2.1,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,camera chip,camera chip,neutral,0,STATEMENT,The same 4mp chip from the 4500 camera,"zoom, closeup",Author
+34.2.2,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,zoom,zoom,neutral,0,STATEMENT,plus a 3x zoom with the ability to expand upon that with extenders,"zoom, closeup",Author
+34.2.3,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,closeup mode,closeup mode,positive,1,AFFECTIVE-REACTION,great close-up mode,"zoom, closeup",Author
+34.2.4,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,battery,battery,positive,1,AFFECTIVE-REACTION,long lasting rechargeable battery,"zoom, closeup",Author
+34.3.1,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,camera,camera,neutral,0,STATEMENT,it's the best camera for the money,images,Author
+34.3.2,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,usability,usability,positive,1,AFFECTIVE-REACTION,if you're looking for something that's easy to use,images,Author
+34.3.3,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,size,size,positive,1,AFFECTIVE-REACTION,small good for travel,images,Author
+34.3.4,Nikon Coolpix 4300,2024-05-01T00:48:17.145Z,User-KofyY,image quality,pictures,positive,1,AFFECTIVE-REACTION,"provides excellent, sharp images",images,Author
